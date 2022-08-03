@@ -3,3 +3,5 @@
 *.swo
 .direnv/
 .envrc
+config.bat
+node_modules
